@@ -1,0 +1,14 @@
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.exe
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.deps.json
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.runtimeconfig.json
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.dll
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\bin\Debug\netcoreapp3.1\Day 1 Exercise.pdb
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.AssemblyInfo.cs
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.dll
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.pdb
+C:\Users\Raston\source\repos\Day 1 Exercise\Day 1 Exercise\obj\Debug\netcoreapp3.1\Day 1 Exercise.genruntimeconfig.cache
